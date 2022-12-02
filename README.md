@@ -4,7 +4,7 @@
 Source: https://web.stanford.edu/class/cs224w/
 
 ### TO-DO
-- [ ] Colab 0
+- [x] Colab 0: Nothing to do, fixed a few version bugs in the original notebook
 - [ ] Colab 1
 - [ ] Colab 2
 - [ ] Colab 3
