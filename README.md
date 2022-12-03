@@ -4,8 +4,8 @@
 Source: https://web.stanford.edu/class/cs224w/
 
 ### TO-DO: Remove this after finishing
-- [x] Colab 0: Nothing to do, fixed a few version bugs in the original notebook
-- [x] Colab 1: Might need someone to check answers
+- [x] Colab 0
+- [x] Colab 1
 - [ ] Colab 2
 - [ ] Colab 3
 - [ ] Colab 4
