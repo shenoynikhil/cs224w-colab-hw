@@ -1,12 +1,12 @@
-# cs224w-colab-hw
+# CS224W Solutions (Fall 2021)
 [WIP] Solutions to CS224W Colab and Homework.
 
 Source: https://web.stanford.edu/class/cs224w/
 
 ### TO-DO: Remove this after finishing
-- [x] Colab 0
-- [x] Colab 1
-- [x] Colab 2
-- [ ] Colab 3
-- [ ] Colab 4
+- [x] Colab 0: Intro to Graph Tools
+- [x] Colab 1: Intro to node embeddings, torch_geometric
+- [x] Colab 2: Building GNN using torch_gemetric
+- [x] Colab 3: GraphSage
+- [x] Colab 4: GAT
 - [ ] Colab 5
