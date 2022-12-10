@@ -9,7 +9,3 @@ Source: https://web.stanford.edu/class/cs224w/
 - [x] Colab 3: GraphSage
 - [x] Colab 4: GAT
 - [x] Colab 5: Heterogenous Graph Training
-
-##### Annotated Heterogenous Graph Attention Network Equation
-Annotated  (semantic level attention) equation used in Colab 5 for heterogenous graph message passing.
-![Annotated HAN equation](HAN-Attn.jpg)
