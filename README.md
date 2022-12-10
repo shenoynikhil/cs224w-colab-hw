@@ -1,4 +1,4 @@
-# CS224W: Machine Learning with Graphs Assignment Solutions (Fall 2021)
+## CS224W: Machine Learning with Graphs Assignment Solutions (Fall 2021)
 Solutions to CS224W Colab and Homework.
 
 Source: https://web.stanford.edu/class/cs224w/
